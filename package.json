@@ -1,0 +1,50 @@
+{
+  "name": "vscode-regex",
+  "displayName": "vscode-regex",
+  "description": "正则大全",
+  "version": "1.0.0",
+  "publisher": "learnguo",
+  "keywords": [
+    "regular expression",
+    "regex",
+    "regexp",
+    "vscode-regex",
+    "正则",
+    "正则表达式",
+    "正则大全",
+    "常用正则表达式",
+    "数字正则表达式",
+    "检验数字正则表达式",
+    "校验数字正则表达式"
+  ],
+  "repository": {
+    "url": "https://github.com/GuoLearn/vscode-regex"
+  },
+  "icon": "vscode-regex.png",
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "vue-html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
