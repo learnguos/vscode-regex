@@ -1,9 +1,17 @@
-# Change Log
+## 版本记录
 
-All notable changes to the "learnguo" extension will be documented in this file.
+- v1.4.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+  > 新增特殊需求的正则表达式
 
-## [Unreleased]
+- v1.3.0
 
-- Initial release
+  > 新增校验字符的正则表达式
+
+- v1.2.0
+
+  > 新增校验数字的正则表达式
+
+- v1.0.0
+
+  > 常用的正则表达式
