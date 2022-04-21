@@ -15,6 +15,12 @@
 
 
 
+## 示范
+
+https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regex.gif
+
+
+
 ## 校验数字的正则表达式
 
 - m到n位的数字
