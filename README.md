@@ -16,7 +16,7 @@
 
 ## 示范
 
-![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regex.gif)
+![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
 
 
 
