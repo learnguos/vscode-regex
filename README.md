@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/vscode-regexs.png)
+![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/vscode-regex.png)
 ### 说明
 
 ###### 一个正则表达式代码片段插件
