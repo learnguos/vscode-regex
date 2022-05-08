@@ -6,7 +6,7 @@
 
 ###### 支持的页面：javascript、vue、html
 
-![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.svg)
+![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.png)
 
 ### 使用教程
 
@@ -16,13 +16,13 @@
 
 ###### 按两次 **`T`** 键 呼出特殊需求的正则表达式
 
-![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.svg)
+![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.png)
 
 ### 示范
 
 ![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
 
-![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.svg)
+![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.png)
 
 ### 校验数字的正则表达式
 
@@ -140,7 +140,7 @@
 /^-[1-9]\d*$/
 ```
 
-![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.svg)
+![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.png)
 
 ### 校验字符的正则表达式
 
@@ -210,7 +210,7 @@
 /^[\u4E00-\u9FA5A-Za-z0-9_]+$/
 ```
 
-![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.svg)
+![](https://cdn.jsdelivr.net/gh/learnguos/Figure-bed/隔断.png)
 
 ### 特殊需求的正则表达式
 
