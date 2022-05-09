@@ -7,7 +7,7 @@
 - 支持的页面：javascript、vue、html
 - Github仓库：https://github.com/learnguos/vscode-regex
 
-![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/标题隔断.png)
+###### 
 
 ## 使用教程
 
@@ -211,7 +211,7 @@ n位的数字
 /^[\u4E00-\u9FA5A-Za-z0-9_]+$/
 ```
 
-![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/标题隔断.png)
+
 
 ### 特殊需求的正则表达式
 
