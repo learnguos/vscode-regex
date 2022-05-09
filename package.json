@@ -2,7 +2,7 @@
   "name": "vscode-regex",
   "displayName": "vscode-regex",
   "description": "正则大全",
-  "version": "1.6.2",
+  "version": "1.6.4",
   "publisher": "learnguo",
   "keywords": [
     "regular expression",
@@ -24,7 +24,7 @@
     "校验特殊需求正则表达式"
   ],
   "repository": {
-    "url": "https://github.com/GuoLearn/vscode-regex"
+    "url": "https://github.com/learnguos/vscode-regex"
   },
   "icon": "vscode-regex.png",
   "engines": {
