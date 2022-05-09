@@ -5,23 +5,10 @@
   "version": "1.6.5",
   "publisher": "learnguo",
   "keywords": [
-    "regular expression",
     "regex",
-    "regexp",
-    "vscode-regex",
     "正则",
     "正则表达式",
-    "正则大全",
-    "常用正则表达式",
-    "数字正则表达式",
-    "检验数字正则表达式",
-    "校验数字正则表达式",
-    "字符正则表达式",
-    "检验字符正则表达式",
-    "校验字符正则表达式",
-    "特殊需求正则表达式",
-    "检验特殊需求正则表达式",
-    "校验特殊需求正则表达式"
+    "正则大全"
   ],
   "repository": {
     "url": "https://github.com/learnguos/vscode-regex"
