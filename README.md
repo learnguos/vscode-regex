@@ -7,7 +7,7 @@
 - 支持的页面：javascript、vue、html
 - Github仓库：https://github.com/learnguos/vscode-regex
 
-![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/隔断.png)
+![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/隔断s.png)
 
 ## 使用教程
 
@@ -17,7 +17,7 @@
 
 - 按两次 **`T`** 键 呼出特殊需求的正则表达式
 
-![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/隔断.png)
+![](https://cdn.jsdelivr.net/gh/learnguos/figure-bed/隔断s.png)
 
 ## 示范
 
