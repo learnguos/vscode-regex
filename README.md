@@ -1,4 +1,6 @@
-## 说明
+### 说明
+
+---
 
 一个正则表达式代码片段插件
 
@@ -7,8 +9,6 @@
 支持的页面：`javascript`、`vue`、`html`
 
 Github仓库：https://github.com/learnguos/vscode-regex
-
-[^]: 
 
 
 ## 使用教程
