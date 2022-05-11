@@ -2,11 +2,11 @@
 
 **一个正则表达式代码片段插件**
 
-> 正则表达式包括：`数字类正则`、`字符类正则`、`特殊类正则`
+**正则表达式包括**：`数字类正则`、`字符类正则`、`特殊类正则`
 
-> 支持的页面：`javascript`、`vue`、`html`
+**支持的页面**：`javascript`、`vue`、`html`
 
-> Github仓库：https://github.com/learnguos/vscode-regex
+**Github**仓库：https://github.com/learnguos/vscode-regex
 
 
 
