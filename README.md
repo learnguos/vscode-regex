@@ -1,6 +1,4 @@
-### 说明
-
----
+## 说明
 
 一个正则表达式代码片段插件
 
@@ -10,6 +8,7 @@
 
 Github仓库：https://github.com/learnguos/vscode-regex
 
+[]()
 
 ## 使用教程
 
@@ -20,13 +19,9 @@ Github仓库：https://github.com/learnguos/vscode-regex
 按两次 **`T`** 键 呼出特殊需求的正则表达式
 
 
-
-
 ## 示范
 
 ![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
-
-
 
 ## 校验数字的正则表达式
 
