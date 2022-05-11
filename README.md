@@ -31,7 +31,7 @@
 
 ![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
 
- 
+​       
 
 ### 校验数字的正则表达式
 
@@ -149,7 +149,7 @@ n位的数字
 /^-[1-9]\d*$/
 ```
 
-
+​    
 
 ### 校验字符的正则表达式
 
