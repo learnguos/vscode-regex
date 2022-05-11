@@ -1,4 +1,4 @@
-## 说明
+### 说明
 
 一个正则表达式代码片段插件
 
@@ -10,7 +10,7 @@ Github仓库：https://github.com/learnguos/vscode-regex
 
 
 
-## 使用教程
+### 使用教程
 
 按两次 **`S`** 键 呼出校验数字的正则表达式
 
@@ -21,13 +21,13 @@ Github仓库：https://github.com/learnguos/vscode-regex
 
 
 
-## 示范
+### 示范
 
 ![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
 
    
 
-## 校验数字的正则表达式
+### 校验数字的正则表达式
 
 m到n位的数字
 
@@ -145,7 +145,7 @@ n位的数字
 
    
 
-## 校验字符的正则表达式
+### 校验字符的正则表达式
 
 汉字
 
@@ -215,7 +215,7 @@ n位的数字
 
 
 
-## 特殊需求的正则表达式
+### 特殊需求的正则表达式
 
 护照 (包含香港、澳门)
 
