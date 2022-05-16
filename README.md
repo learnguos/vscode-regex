@@ -1,4 +1,4 @@
-## 说明
+### 说明
 
 - **vscode**正则表达式代码片段插件
 
@@ -8,9 +8,7 @@
 - 支持的页面：**javascript**、**vue**、**html**
 
 
-​    
-
-## 使用教程
+### 使用教程
 
 - 按两次 **`S`** 键 呼出校验数字的正则表达式
 
@@ -20,9 +18,7 @@
 
 - 按两次 **`T`** 键 呼出特殊需求的正则表达式
 
-​    
-
-## 示范
+### 示范
 
 ![GIF](https://cdn.jsdelivr.net/gh/GuoLearn/Figure-bed/vscode-regexg.gif)
 
