@@ -2,7 +2,7 @@
   "name": "vscode-regex",
   "displayName": "vscode-regex",
   "description": "正则大全",
-  "version": "1.7.5",
+  "version": "1.7.6",
   "publisher": "learnguo",
   "keywords": [
     "regex",
