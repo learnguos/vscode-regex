@@ -2,7 +2,7 @@
   "name": "vscode-regex",
   "displayName": "vscode-regex",
   "description": "正则大全",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "publisher": "learnguo",
   "keywords": [
     "regex",
@@ -27,11 +27,11 @@
         "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "vue",
+        "language": "vue-javascript",
         "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
+        "language": "html-javascript",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
